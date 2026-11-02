@@ -1,0 +1,27 @@
+.header{
+    font-family: 'Fraunces', system-ui;
+    font-style: normal;
+    font-variation-settings:"SOFT" 0, "WONK" 0;
+}
+
+.body {
+    font-family: 'Bentham', system-ui;
+}
+
+.intro {
+    font-family: 'Bentham', system-ui;
+    font-size: 1.2rem;
+    text-align: justify;
+    line-height: normal;
+}
+
+.intro-header {
+    font-family: 'Bentham', system-ui;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    font-family: 'Bentham', system-ui;
+    font-weight: bold;
+}
+
